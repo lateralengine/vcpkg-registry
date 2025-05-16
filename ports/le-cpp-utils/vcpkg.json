@@ -1,6 +1,6 @@
 {
     "name": "le-cpp-utils",
-    "version-string": "0.1.0",
+    "version-string": "0.1.1",
     "description": "Lateral Engine commonly used C++ utilities",
     "homepage": "https://github.com/lateralengine/le-cpp-utils",
     "license": "MIT",
